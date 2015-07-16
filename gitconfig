@@ -1,0 +1,7 @@
+[user]
+	email = mapleaph@gmail.com
+	name = Michael Wu
+[core]
+	editor = emacs
+[color]
+	ui = true
