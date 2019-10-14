@@ -2,7 +2,7 @@
 	name = Michael Wu
 	email = mapleaph@gmail.com
 [core]
-	excludesfile = /Users/wukai/.gitignore_global
+	excludesfile = $HOME/.gitignore_global
 	editor = vim
 [color]
 	ui = true
@@ -13,7 +13,7 @@
 	cmd = /usr/local/bin/bcomp \"$LOCAL\" \"$REMOTE\" \"$BASE\" \"$MERGED\"
 	trustExitCode = true
 [commit]
-	template = /Users/wukai/.stCommitMsg
+	template = /Users/mike/.stCommitMsg
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
