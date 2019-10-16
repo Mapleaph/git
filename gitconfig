@@ -4,6 +4,8 @@
 [core]
 	excludesfile = $HOME/.gitignore_global
 	editor = vim
+	filemode = false
+	autocrlf = input
 [color]
 	ui = true
 [difftool "sourcetree"]
